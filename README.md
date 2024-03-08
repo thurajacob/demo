@@ -4,7 +4,7 @@ Hello, Nice to meet you!
 
 I am Thura Jacob!
 
-## KeepFighting!
+## KeepFighting
 
 I just want to say...
 
